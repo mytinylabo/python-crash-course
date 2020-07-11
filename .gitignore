@@ -5,3 +5,4 @@ __pycache__
 .coverage
 htmlcov
 Pipfile.lock
+db.sqlite3
